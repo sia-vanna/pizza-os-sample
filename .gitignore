@@ -1,0 +1,5 @@
+# build junk
+*.o
+*.bin
+*.iso
+iso/
