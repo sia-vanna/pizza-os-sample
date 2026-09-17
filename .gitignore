@@ -3,3 +3,22 @@
 *.bin
 *.iso
 iso/
+tmp/
+grub/
+*.img
+*.elf
+
+# node
+node_modules/
+package-lock.json
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# logs
+*.log
+/server.log
+
+# os specific
+.DS_Store
+Thumbs.db
